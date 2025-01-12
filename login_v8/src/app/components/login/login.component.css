@@ -1,9 +1,12 @@
 /* start css login component */
+.landing-page .form-layout .row{
+    box-shadow: 0 2px 2.5px 0 #e3e3e3;
+}
 .landing-page .title{
     background-color: #57b846ff;
 }
 .landing-page .form input{
-    background-color: #f7ecde;
+    border: 3px solid #f7ecde;
 }
 .landing-page .form label{
     background-color: transparent;
