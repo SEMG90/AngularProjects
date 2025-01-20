@@ -1,0 +1,63 @@
+/* login css */
+.login-com{
+    background-color: #4945a3ff;
+}
+.forgot-pass a{
+    color: #4945a3ff;
+}
+.forgot-pass a:hover{
+    text-decoration: none;
+}
+.btn{
+    background-color: #4945a3ff;
+    border: 2px solid #4945a3ff;
+}
+.btn a{
+    color: #fff;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: #fff;
+    border: 2px solid #4945a3ff;
+}
+.btn:hover a{
+    color: #4945a3ff;
+}
+.sign-up a{
+    color: #4945a3ff;
+}
+.sign-up a:hover{
+    text-decoration: none;
+}
+.facebook{
+    background-color: #4070f5ff;
+    border: 2px solid #4070f5ff;
+    cursor: pointer;
+}
+.facebook:hover{
+    background-color: transparent;
+    border: 2px solid #4070f5ff;
+}
+.facebook a{
+    color: #fff;
+    text-decoration: none;
+}
+.facebook a:hover{
+    color: #4070f5ff;
+}
+.google{
+    background-color: #f54040;
+    border: 2px solid #f54040;
+    cursor: pointer;
+}
+.google:hover{
+    background-color: transparent;
+    border: 2px solid #f54040;
+}
+.google a{
+    color: #fff;
+    text-decoration: none;
+}
+.google a:hover{
+    color: #f54040;
+}
