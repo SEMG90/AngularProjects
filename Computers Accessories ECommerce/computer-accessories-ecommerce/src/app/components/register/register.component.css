@@ -1,0 +1,25 @@
+/* register css */
+.register-com{
+    background-color: #4945a3ff;
+}
+.forgot-pass a{
+    color: #4945a3ff;
+}
+.forgot-pass a:hover{
+    text-decoration: none;
+}
+.btn{
+    background-color: #4945a3ff;
+    border: 2px solid #4945a3ff;
+}
+.btn a{
+    color: #fff;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: #fff;
+    border: 2px solid #4945a3ff;
+}
+.btn:hover a{
+    color: #4945a3ff;
+}
